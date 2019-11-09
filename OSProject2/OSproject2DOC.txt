@@ -1,0 +1,34 @@
+開發平台:
+  VisualStudio
+
+開發環境:
+  WIN10
+
+功能:
+  讀入檔案做CPU排程(FCFS,NSJF,PSJF,RR,PP)後輸出檔案
+
+流程:
+  讀入檔案名稱(input,input1...)
+  讀入檔案，把"指定方法(1~6)","時間片段","各處理程序資訊"存起來
+  看要什麼方法就呼叫指定的CPU排程去做
+  做完輸出到螢幕上並寫檔
+  直到讀到檔案名稱為"0"時退出程式
+
+使用的data structure:
+  存"指定方法","時間片段":
+    int method, timeslice;
+
+  存"各處理程序資訊"(命名方法為"排程名稱"+"資訊"):	
+    struct Process 
+    {
+      int id,cpubrust,arrivaltime,priority;
+      int fcfswaitingtime, fcfsturnaroundtime, fcfsbegintime, fcfsendtime, fcfsruntime = 0;//FCFS (First Come First Serve)
+      int rrwaitingtime, rrturnaroundtime, rrbegintime, rrendtime, rrruntime = 0; //RR(Round Robin)
+      int psjfwaitingtime, psjfturnaroundtime, psjfbegintime, psjfendtime, psjfruntime = 0, psjfused = 0;//PSJF (Preemptive Shortest Job First)
+      int nsjfwaitingtime, nsjfturnaroundtime, nsjfbegintime, nsjfendtime, nsjfruntime = 0;//NSJF (Non-preemptive Shortest Job First)
+      int ppwaitingtime, ppturnaroundtime, ppbegintime, ppendtime, ppruntime = 0,ppused = 0;//PP (Preemptive Priority)
+    };
+    vector<Process> process1;
+
+  存甘特圖:
+    string fcfsganttchart, rrganttchart, psjfganttchart, nsjfganttchart, ppganttchart;

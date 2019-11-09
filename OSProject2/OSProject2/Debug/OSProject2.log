@@ -1,0 +1,21 @@
+﻿  OSProject2.cpp
+c:\users\harry\desktop\2019os\pj2\osproject2\osproject2\osproject2.cpp(57): warning C4018: '<': signed/unsigned 不相符
+c:\users\harry\desktop\2019os\pj2\osproject2\osproject2\osproject2.cpp(137): warning C4018: '<': signed/unsigned 不相符
+c:\users\harry\desktop\2019os\pj2\osproject2\osproject2\osproject2.cpp(203): warning C4018: '<': signed/unsigned 不相符
+c:\users\harry\desktop\2019os\pj2\osproject2\osproject2\osproject2.cpp(227): warning C4018: '<': signed/unsigned 不相符
+c:\users\harry\desktop\2019os\pj2\osproject2\osproject2\osproject2.cpp(262): warning C4018: '<': signed/unsigned 不相符
+c:\users\harry\desktop\2019os\pj2\osproject2\osproject2\osproject2.cpp(286): warning C4018: '<': signed/unsigned 不相符
+c:\users\harry\desktop\2019os\pj2\osproject2\osproject2\osproject2.cpp(322): warning C4018: '<': signed/unsigned 不相符
+c:\users\harry\desktop\2019os\pj2\osproject2\osproject2\osproject2.cpp(361): warning C4018: '<': signed/unsigned 不相符
+c:\users\harry\desktop\2019os\pj2\osproject2\osproject2\osproject2.cpp(404): warning C4018: '<': signed/unsigned 不相符
+c:\users\harry\desktop\2019os\pj2\osproject2\osproject2\osproject2.cpp(441): warning C4018: '<': signed/unsigned 不相符
+c:\users\harry\desktop\2019os\pj2\osproject2\osproject2\osproject2.cpp(456): warning C4018: '<': signed/unsigned 不相符
+c:\users\harry\desktop\2019os\pj2\osproject2\osproject2\osproject2.cpp(476): warning C4018: '<': signed/unsigned 不相符
+c:\users\harry\desktop\2019os\pj2\osproject2\osproject2\osproject2.cpp(502): warning C4018: '<': signed/unsigned 不相符
+c:\users\harry\desktop\2019os\pj2\osproject2\osproject2\osproject2.cpp(537): warning C4018: '<': signed/unsigned 不相符
+c:\users\harry\desktop\2019os\pj2\osproject2\osproject2\osproject2.cpp(577): warning C4018: '<': signed/unsigned 不相符
+c:\users\harry\desktop\2019os\pj2\osproject2\osproject2\osproject2.cpp(632): warning C4018: '<': signed/unsigned 不相符
+c:\users\harry\desktop\2019os\pj2\osproject2\osproject2\osproject2.cpp(647): warning C4018: '<': signed/unsigned 不相符
+c:\users\harry\desktop\2019os\pj2\osproject2\osproject2\osproject2.cpp(696): warning C4018: '<': signed/unsigned 不相符
+c:\users\harry\desktop\2019os\pj2\osproject2\osproject2\osproject2.cpp(711): warning C4018: '<': signed/unsigned 不相符
+  OSProject2.vcxproj -> C:\Users\harry\Desktop\2019os\pj2\OSProject2\Debug\OSProject2.exe

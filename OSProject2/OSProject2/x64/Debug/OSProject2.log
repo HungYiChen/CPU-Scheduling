@@ -1,0 +1,9 @@
+﻿已經開始建置於 2019/6/4 下午 03:38:04。
+     1>節點 2 (Build 目標) 上的專案 "C:\Users\user\Desktop\10527245_0603\10527245_0603\OSProject2\OSProject2\OSProject2.vcxproj"。
+       專案檔包含 ToolsVersion="15.0"。這個工具組可能未知或遺失，在這種情況下，也許可以安裝適當的 MSBuild 版本來解決這個問題，或者組建可能因為原則的緣故，而強制為特定的 ToolsVersion。將專案視為具有 ToolsVersion="4.0"。如需詳細資訊，請參閱 http://go.microsoft.com/fwlink/?LinkId=291333。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.Cpp.Platform.targets(44,5): error MSB8020: The builds tools for v141 (Platform Toolset = 'v141') cannot be found. To build using the v141 build tools, either click the Project menu or right-click the solution, and then select "Update VC++ Projects...". Install v141 to build using the v141 build tools.
+     1>專案 "C:\Users\user\Desktop\10527245_0603\10527245_0603\OSProject2\OSProject2\OSProject2.vcxproj" (Build 目標) 建置完成 -- 失敗。
+
+建置失敗。
+
+經過時間 00:00:00.42
